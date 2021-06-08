@@ -1,0 +1,18 @@
+{
+  "name": "html-template-adaptive",
+  "version": "1.0.0",
+  "description": "try template-adaptive",
+  "main": "index.html",
+  "repository": {
+    "url": "https://github.com/AntonChanin/template-adaptive",
+    "type": "git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template-adaptive"
+  ],
+  "author": "AVH",
+  "license": "ISC"
+}
